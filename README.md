@@ -1,3 +1,3 @@
 # Getting Started
 
-Trialing a test :(&#x20;
+Confirming a test 
