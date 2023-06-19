@@ -35,7 +35,7 @@ Note: general electives shown below must include 7-8 credits of prescribed physi
 | general elective                                   | 3       | general elective        | 3       |
 | Byrne seminar or First-year Interest Group seminar | 1       | Byrne seminar           | 1       |
 |                                                    |         |                         |         |
-|                                                    | 15      |                         | 15      |
+|  **TOTAL**                                         | **15**  |                         | **15**  |
 
 #### 2nd year: 60 credits cumulative
 
@@ -46,7 +46,7 @@ Note: general electives shown below must include 7-8 credits of prescribed physi
 | 640:250 Linear Algebra        | 3       | general elective               | 4\*     |
 | general elective              | 4\*     | general elective               | 3       |
 |                               |         |                                |         |
-|                               | 15      |                                | 15      |
+|  **TOTAL**                    | **15**  |                                | **15**  |
 
 #### 3rd year: 90 credits cumulative
 
@@ -57,7 +57,7 @@ Note: general electives shown below must include 7-8 credits of prescribed physi
 | general elective                          | 4\*     | general elective  | 4\*     |
 | general elective                          | 3       | general elective  | 3       |
 |                                           |         |                   |         |
-|                                           | 15      |                   | 15      |
+|  **TOTAL**                                | **15**  |                   | **15**  |
 
 #### 4th year: 120 credits cumulative
 
@@ -68,7 +68,7 @@ Note: general electives shown below must include 7-8 credits of prescribed physi
 | general elective | 4\*     | general elective | 4\*     |
 | general elective | 3       | general elective | 3       |
 |                  |         |                  |         |
-|                  | 15      |                  | 15      |
+|  **TOTAL**       | **15**  |                  | **15**  |
 
 
 

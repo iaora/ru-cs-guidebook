@@ -24,11 +24,11 @@ Notes:
 
 #### 1st year: 30 credits cumulative
 
-<table data-full-width="false"><thead><tr><th>FALL</th><th>Credits</th><th>SPRING</th><th>Credits</th></tr></thead><tbody><tr><td>640:151 Calculus I</td><td>4</td><td>640:152 Calculus II</td><td>4</td></tr><tr><td>198:111 Introduction to Computer Science</td><td>4</td><td>198:112 Data Structures</td><td>4</td></tr><tr><td>SAS signature course or other general elective</td><td>3</td><td>general elective</td><td>3</td></tr><tr><td>general elective </td><td>3</td><td>general elective </td><td>3</td></tr><tr><td>Byrne seminar or First-year Interest Group seminar</td><td>1</td><td>Byrne seminar</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td> </td><td>15</td><td> </td><td>15</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>FALL</th><th>Credits</th><th>SPRING</th><th>Credits</th></tr></thead><tbody><tr><td>640:151 Calculus I</td><td>4</td><td>640:152 Calculus II</td><td>4</td></tr><tr><td>198:111 Introduction to Computer Science</td><td>4</td><td>198:112 Data Structures</td><td>4</td></tr><tr><td>SAS signature course or other general elective</td><td>3</td><td>general elective</td><td>3</td></tr><tr><td>general elective </td><td>3</td><td>general elective </td><td>3</td></tr><tr><td>Byrne seminar or First-year Interest Group seminar</td><td>1</td><td>Byrne seminar</td><td>1</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td> <strong>TOTAL</strong></td><td><strong>15</strong></td><td> </td><td><strong>15</strong></td></tr></tbody></table>
 
 #### 2nd year: 60 credits cumulative
 
-<table data-full-width="false"><thead><tr><th>FALL</th><th>Credits</th><th>SPRING</th><th>Credits</th></tr></thead><tbody><tr><td>198:205 Discrete Structures I</td><td>4</td><td>198:206 Discrete Structures II</td><td>4</td></tr><tr><td>198:211 Computer Architecture</td><td>4</td><td>CS elective I</td><td>4</td></tr><tr><td>640:250 Linear Algebra</td><td>3</td><td>general elective </td><td>4*</td></tr><tr><td>general elective </td><td>4*</td><td>general elective </td><td>3</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td> </td><td>15</td><td> </td><td>15</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th>FALL</th><th>Credits</th><th>SPRING</th><th>Credits</th></tr></thead><tbody><tr><td>198:205 Discrete Structures I</td><td>4</td><td>198:206 Discrete Structures II</td><td>4</td></tr><tr><td>198:211 Computer Architecture</td><td>4</td><td>CS elective I</td><td>4</td></tr><tr><td>640:250 Linear Algebra</td><td>3</td><td>general elective </td><td>4*</td></tr><tr><td>general elective </td><td>4*</td><td>general elective </td><td>3</td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td> <strong>TOTAL</strong></td><td><strong>15</strong></td><td> </td><td><strong>15</strong></td></tr></tbody></table>
 
 #### 3rd year: 90 credits cumulative
 
@@ -39,7 +39,7 @@ Notes:
 | general elective                          | 4\*     | general elective  | 4\*     |
 | general elective                          | 3       | general elective  | 3       |
 |                                           |         |                   |         |
-|                                           | 15      |                   | 15      |
+|  **TOTAL**                                | **15**  |                   | **15**  |
 
 #### 4th year: 120 credits cumulative
 
@@ -50,7 +50,7 @@ Notes:
 | general elective | 4\*     | general elective | 4\*     |
 | general elective | 3       | general elective | 3       |
 |                  |         |                  |         |
-|                  | 15      |                  | 15      |
+|  **TOTAL**       | **15**  |                  | **15**  |
 
 
 

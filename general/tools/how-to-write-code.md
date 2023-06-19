@@ -1,5 +1,5 @@
 # How to write code
 
-## How to use VS Code
+## How to use IDEs
 
 ## The command line/Emacs
